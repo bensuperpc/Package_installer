@@ -1,0 +1,14 @@
+csfml
+opencv
+boost
+qt5
+opencv-samples
+libwebp
+libavif
+opencl-headers
+vulkan-headers
+freeglut
+glu
+sdl2
+asio
+eigen

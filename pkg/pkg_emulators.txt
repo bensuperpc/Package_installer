@@ -1,0 +1,16 @@
+dolphin-emu
+mupen64plus
+libretro-mupen64plus-next
+libretro-citra
+snes9x
+libretro-nestopia
+ppsspp
+higan
+desmume
+dosbox
+hatari
+pcsx2
+stella
+yabause-qt
+retroarch
+qemu-arch-extra

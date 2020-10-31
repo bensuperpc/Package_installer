@@ -1,0 +1,12 @@
+btrfs-progs
+docker-compose
+zsh
+zsh-autosuggestions
+zsh-completions
+kde-applications-meta
+asymptote
+xorg-xinput
+virtualbox
+virtualbox-ext-vnc
+virtualbox-guest-utils
+youtube-dl

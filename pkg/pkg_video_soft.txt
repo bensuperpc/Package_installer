@@ -1,0 +1,9 @@
+ffmpeg
+dav1d
+rav1e
+svt-av1
+intel-media-sdk
+obs-studio
+handbrake
+gource
+vlc

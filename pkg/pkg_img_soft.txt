@@ -1,0 +1,5 @@
+gimp
+gimp-help-fr
+inkscape
+darktable
+krita

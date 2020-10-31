@@ -1,0 +1,9 @@
+gcc
+llvm
+clang
+aarch64-linux-gnu-gcc
+aarch64-linux-gnu-gdb
+arm-none-eabi-gcc
+arm-none-eabi-gdb
+riscv64-linux-gnu-gcc
+riscv64-linux-gnu-gdb
