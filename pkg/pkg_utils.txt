@@ -10,3 +10,9 @@ virtualbox
 virtualbox-ext-vnc
 virtualbox-guest-utils
 youtube-dl
+filezilla
+neofetch
+playonlinux
+vkd3d
+wine-mono
+cura
