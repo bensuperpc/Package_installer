@@ -12,3 +12,4 @@ glu
 sdl2
 asio
 eigen
+base-devel

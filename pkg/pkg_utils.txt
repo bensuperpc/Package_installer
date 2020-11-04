@@ -19,3 +19,4 @@ cura
 parallel
 htop
 figlet
+liferea
