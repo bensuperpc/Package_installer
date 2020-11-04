@@ -1,3 +1,6 @@
 python-tensorflow-opt
 python-matplotlib
 python-scikit-learn
+python-pillow
+python-pandas
+python-opencv

@@ -1,3 +1,6 @@
+sudo groupadd docker
+sudo usermod -aG docker $USER
+sudo systemctl enable docker
 docker pull ubuntu:16.04
 docker pull ubuntu:18.04
 docker pull ubuntu:20.04

@@ -18,3 +18,4 @@ wine-mono
 cura
 parallel
 htop
+figlet
