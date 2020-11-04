@@ -16,3 +16,5 @@ playonlinux
 vkd3d
 wine-mono
 cura
+parallel
+htop
