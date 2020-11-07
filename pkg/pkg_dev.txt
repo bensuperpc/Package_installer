@@ -3,3 +3,8 @@ kdevelop
 qtcreator
 atom
 blender
+arduino
+arduino-builder
+arduino-docs
+go
+base-devel

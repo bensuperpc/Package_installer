@@ -20,3 +20,7 @@ parallel
 htop
 figlet
 liferea
+rclone
+unrar
+plasma-wayland-session
+xdelta3
