@@ -8,3 +8,4 @@ arduino-builder
 arduino-docs
 go
 base-devel
+cloc
