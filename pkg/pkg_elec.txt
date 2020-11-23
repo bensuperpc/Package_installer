@@ -1,0 +1,3 @@
+kicad
+kicad-library
+kicad-library-3d
