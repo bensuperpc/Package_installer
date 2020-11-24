@@ -10,3 +10,4 @@ riscv64-linux-gnu-gcc
 riscv64-linux-gnu-gdb
 nasm
 arduino-avr-core
+mingw-w64-gcc
