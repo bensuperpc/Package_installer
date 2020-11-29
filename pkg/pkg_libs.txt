@@ -13,3 +13,5 @@ sdl2
 asio
 eigen
 base-devel
+ois
+ogre
