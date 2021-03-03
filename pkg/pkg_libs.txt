@@ -15,3 +15,6 @@ eigen
 base-devel
 ois
 ogre
+openmp
+libheif
+root-cuda
