@@ -9,3 +9,4 @@ arduino-docs
 go
 base-devel
 cloc
+perf

@@ -26,3 +26,4 @@ plasma-wayland-session
 xdelta3
 net-tools
 remmina
+cppcheck

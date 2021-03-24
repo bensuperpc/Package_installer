@@ -17,4 +17,4 @@ ois
 ogre
 openmp
 libheif
-root-cuda
+ocl-icd
