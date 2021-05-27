@@ -10,3 +10,6 @@ go
 base-devel
 cloc
 perf
+distcc
+ccache
+libstdc++5

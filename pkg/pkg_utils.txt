@@ -27,3 +27,6 @@ xdelta3
 net-tools
 remmina
 cppcheck
+doxygen
+rpm
+dpkg
