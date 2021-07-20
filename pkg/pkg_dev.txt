@@ -13,3 +13,4 @@ perf
 distcc
 ccache
 libstdc++5
+ninja

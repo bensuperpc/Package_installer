@@ -30,3 +30,14 @@ cppcheck
 doxygen
 rpm
 dpkg
+mlocate
+dos2unix
+edid-decode
+arch-install-scripts
+acl
+debootstrap
+debian-archive-keyring
+ubuntu-keyring
+gnupg
+pandoc
+meld

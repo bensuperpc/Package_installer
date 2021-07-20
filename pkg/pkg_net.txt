@@ -1,3 +1,4 @@
 telegram-desktop
 discord
 youtube-dl
+traceroute
