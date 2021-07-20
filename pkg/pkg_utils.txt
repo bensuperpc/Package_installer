@@ -41,3 +41,4 @@ ubuntu-keyring
 gnupg
 pandoc
 meld
+smartmontools
