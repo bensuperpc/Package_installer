@@ -42,3 +42,4 @@ gnupg
 pandoc
 meld
 smartmontools
+dnsutils
