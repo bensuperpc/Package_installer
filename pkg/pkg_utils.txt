@@ -44,3 +44,4 @@ meld
 smartmontools
 dnsutils
 shellcheck
+zip
