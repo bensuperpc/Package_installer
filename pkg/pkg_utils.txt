@@ -43,3 +43,4 @@ pandoc
 meld
 smartmontools
 dnsutils
+shellcheck
