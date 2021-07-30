@@ -45,3 +45,4 @@ smartmontools
 dnsutils
 shellcheck
 zip
+tree
