@@ -10,4 +10,3 @@ vlc
 kodi
 kodi-addon-audioencoder-flac
 kodi-addon-audioencoder-wav
-youtube-viewer

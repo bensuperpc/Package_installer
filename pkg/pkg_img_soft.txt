@@ -3,4 +3,4 @@ gimp-help-fr
 inkscape
 darktable
 krita
-Imagemagick
+imagemagick

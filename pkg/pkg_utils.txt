@@ -39,6 +39,7 @@ debootstrap
 debian-archive-keyring
 ubuntu-keyring
 gnupg
+gnome-keyring
 pandoc
 meld
 smartmontools
