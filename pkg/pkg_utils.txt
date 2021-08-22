@@ -49,3 +49,4 @@ zip
 tree
 perl-mime-tools
 perl-authen-sasl
+tesseract
