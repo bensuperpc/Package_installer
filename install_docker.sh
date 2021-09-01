@@ -1,5 +1,5 @@
 #!/bin/bash
-sudo groupadd docker
-sudo usermod -aG docker $USER
-sudo systemctl enable docker
-docker run hello-world
+sudo groupadd docker || true
+sudo usermod -aG docker $USER || true
+sudo systemctl enable docker || true
+sudo docker run hello-world || true

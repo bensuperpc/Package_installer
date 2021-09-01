@@ -1,15 +1,13 @@
 #!/bin/bash
 
+sudo pacman -S --needed git base-devel
+git clone https://aur.archlinux.org/yay.git
+cd yay
+makepkg -si
+
 for i in "$@"
 do
 case $i in
-    -y|--yay)
-    sudo pacman -S --needed git base-devel
-    git clone https://aur.archlinux.org/yay.git
-    cd yay
-    makepkg -si
-    shift # past argument=value
-    ;;
     -i|--install)
     echo 'Install packages...'
 #    yay -Sua
@@ -30,7 +28,7 @@ case $i in
     exit 0
     ;;
     *)
-        # unknown option
+        echo "Usage: ${0##*/} [-i : Install packages, -y : Install yay]"
     ;;
 esac
 done

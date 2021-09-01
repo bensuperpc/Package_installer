@@ -3,5 +3,4 @@ python-scikit-learn
 python-pillow
 python-numpy
 python-pandas
-python-tensorflow-opt
-
+python-keras
