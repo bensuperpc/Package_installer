@@ -59,3 +59,6 @@ tesseract-data-chi_tra
 tesseract-data-chi_sim
 gimagereader-qt
 libreoffice-fresh-fr
+shellcheck
+help2man
+unzip
