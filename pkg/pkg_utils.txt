@@ -62,3 +62,4 @@ libreoffice-fresh-fr
 shellcheck
 help2man
 unzip
+parallel
