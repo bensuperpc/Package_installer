@@ -63,3 +63,4 @@ shellcheck
 help2man
 unzip
 parallel
+xorg-server-xvfb
