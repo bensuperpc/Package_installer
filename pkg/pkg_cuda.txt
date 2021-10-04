@@ -2,7 +2,4 @@ cuda-tools
 cuda
 cudnn
 root-cuda
-python-tensorflow-opt-cuda
-python-pycuda
 tensorboard
-python-tensorflow-serving-api

@@ -1,6 +1,10 @@
+python-opencv
 python-matplotlib
 python-scikit-learn
 python-pillow
 python-numpy
 python-pandas
 python-keras
+python-tensorflow-opt-cuda
+python-tensorflow-serving-api
+python-pycuda
