@@ -6,6 +6,7 @@ opencv-samples
 libwebp
 libavif
 opencl-headers
+opencl-clhpp
 vulkan-headers
 freeglut
 glu
