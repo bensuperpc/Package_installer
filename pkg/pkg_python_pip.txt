@@ -8,3 +8,4 @@ python-keras
 python-tensorflow-opt-cuda
 python-tensorflow-serving-api
 python-pycuda
+python-z3
