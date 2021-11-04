@@ -67,3 +67,4 @@ xorg-server-xvfb
 gnuplot
 codespell
 cppcheck
+lcov
