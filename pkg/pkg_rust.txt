@@ -1,4 +1,4 @@
-cargo-c 
+cargo-c
 cargo-edit
 cargo-release
 cargo-depgraph
