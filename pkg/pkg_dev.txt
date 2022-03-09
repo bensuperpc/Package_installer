@@ -12,5 +12,8 @@ cloc
 perf
 distcc
 ccache
-libstdc++5
 ninja
+codespell
+cppcheck
+lcov
+mold
