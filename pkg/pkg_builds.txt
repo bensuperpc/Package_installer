@@ -1,9 +1,0 @@
-cmake
-make
-ninja
-meson
-valgrind
-gdb
-gcovr
-git
-ccache

@@ -10,10 +10,5 @@ go
 base-devel
 cloc
 perf
-distcc
-ccache
-ninja
 codespell
-cppcheck
-lcov
-mold
+git

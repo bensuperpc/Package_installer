@@ -2,6 +2,7 @@ csfml
 opencv
 boost
 qt5
+qt6
 opencv-samples
 libwebp
 libavif

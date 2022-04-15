@@ -10,3 +10,16 @@ nasm
 arduino-avr-core
 mingw-w64-gcc
 lldb
+cmake
+make
+ninja
+meson
+valgrind
+gdb
+gcovr
+ccache
+cppcheck
+lcov
+mold
+gdb-dashboard
+distcc

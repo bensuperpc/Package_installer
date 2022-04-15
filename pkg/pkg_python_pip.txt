@@ -9,3 +9,6 @@ python-tensorflow-opt-cuda
 python-tensorflow-serving-api
 python-pycuda
 python-z3
+python-pyqt6
+python-pyqt5
+python-pytesseract

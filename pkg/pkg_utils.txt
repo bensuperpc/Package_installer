@@ -47,7 +47,6 @@ zip
 tree
 perl-mime-tools
 perl-authen-sasl
-python-pytesseract
 tesseract-data-eng
 tesseract-data-fra
 tesseract-data-oci
@@ -63,3 +62,4 @@ unzip
 parallel
 xorg-server-xvfb
 gnuplot
+gparted
