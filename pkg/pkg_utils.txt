@@ -12,7 +12,6 @@ virtualbox-guest-utils
 youtube-dl
 filezilla
 neofetch
-playonlinux
 vkd3d
 wine-mono
 parallel
