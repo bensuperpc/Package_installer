@@ -61,5 +61,7 @@ help2man
 unzip
 parallel
 xorg-server-xvfb
+docker
+docker-compose
 gnuplot
 gparted
