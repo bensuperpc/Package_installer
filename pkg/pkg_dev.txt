@@ -1,7 +1,6 @@
 code
 kdevelop
 qtcreator
-atom
 blender
 arduino
 arduino-builder
