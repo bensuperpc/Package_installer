@@ -1,0 +1,5 @@
+curl
+wget
+torbrowser-launcher
+ktorrent
+yt-dlp

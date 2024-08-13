@@ -1,5 +1,0 @@
-cuda-tools
-cuda
-cudnn
-root-cuda
-tensorboard

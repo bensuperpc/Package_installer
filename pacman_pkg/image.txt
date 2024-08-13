@@ -1,6 +1,7 @@
 gimp
-gimp-help-fr
 inkscape
-darktable
 krita
+darktable
 imagemagick
+libwebp
+libheif

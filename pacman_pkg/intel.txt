@@ -1,0 +1,6 @@
+intel-media-driver
+intel-media-sdk
+intel-compute-runtime
+libvpl-tools
+intel-compute-runtime
+vulkan-intel

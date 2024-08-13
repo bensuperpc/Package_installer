@@ -1,0 +1,12 @@
+obs-studio
+vlc
+handbrake
+haruna
+dav1d
+rav1e
+svt-av1
+kdenlive
+mediainfo
+noise-suppression-for-voice
+opentimelineio
+blender

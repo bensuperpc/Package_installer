@@ -1,5 +1,0 @@
-telegram-desktop
-discord
-yt-dlp
-traceroute
-discord

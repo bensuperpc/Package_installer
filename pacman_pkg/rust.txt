@@ -1,5 +1,5 @@
 cargo-c
-cargo-edit
-cargo-release
 cargo-depgraph
+cargo-edit
 cargo-fuzz
+cargo-release

@@ -1,0 +1,5 @@
+jdk21-openjdk
+jdk-openjdk
+jdk17-openjdk
+jdk11-openjdk
+jre8-openjdk

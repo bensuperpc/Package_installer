@@ -1,0 +1,9 @@
+perf
+cppcheck
+gcovr
+ccache
+sccache
+distcc
+memcached
+gdb
+valgrind

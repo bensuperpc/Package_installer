@@ -1,0 +1,6 @@
+unzip
+xz
+bzip2
+gzip
+p7zip
+unrar

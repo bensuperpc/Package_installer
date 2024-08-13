@@ -1,0 +1,9 @@
+parallel
+htop
+btop
+fwupd
+yay
+android-tools
+kwalletmanager
+cups
+earlyoom
