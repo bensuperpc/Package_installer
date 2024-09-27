@@ -8,3 +8,4 @@ kwalletmanager
 cups
 earlyoom
 fdupes
+ufw
