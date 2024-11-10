@@ -10,3 +10,17 @@ mediainfo
 noise-suppression-for-voice
 opentimelineio
 blender
+mlt
+multimon-ng
+nageru
+libultrahdr
+mkvtoolnix-cli
+twolame
+mencoder
+av1an
+dav1d
+rav1e
+svt-av1
+aom
+ffms2
+libdvdcss

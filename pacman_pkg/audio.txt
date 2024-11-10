@@ -1,0 +1,6 @@
+sox
+wavpack
+vorbis-tools
+flac
+avisynthplus
+ladspa

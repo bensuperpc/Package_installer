@@ -5,3 +5,12 @@ darktable
 imagemagick
 libwebp
 libheif
+img2pdf
+ffmpegthumbnailer
+libheif
+libavif
+jpegoptim
+libjpeg-turbo
+openjpeg2    
+libjxl
+hdf5

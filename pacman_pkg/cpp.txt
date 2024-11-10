@@ -25,3 +25,4 @@ boost
 googletest
 benchmark
 help2man
+devtools
