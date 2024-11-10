@@ -5,11 +5,14 @@ debian:latest
 ubuntu:18.04
 ubuntu:20.04
 ubuntu:22.04
+ubuntu:24.04
 ubuntu:latest
 
 alpine:3.14
 alpine:3.15
 alpine:3.16
+alpine:3.17
+alpine:3.18
 alpine:latest
 
 python:debian
