@@ -3,3 +3,4 @@ cargo-depgraph
 cargo-edit
 cargo-fuzz
 cargo-release
+lldb

@@ -11,6 +11,6 @@ libheif
 libavif
 jpegoptim
 libjpeg-turbo
-openjpeg2    
 libjxl
 hdf5
+devil

@@ -22,7 +22,6 @@ pybind11
 spdlog
 fmt
 boost
-googletest
+gtest
 benchmark
 help2man
-devtools

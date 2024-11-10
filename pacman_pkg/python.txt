@@ -1,2 +1,11 @@
 python
 python-pip
+gnuplot
+python-numpy
+python-scipy
+python-matplotlib
+python-pandas
+python-scikit-learn
+python-seaborn
+python-beautifulsoup4
+python-statsmodels
