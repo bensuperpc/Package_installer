@@ -11,4 +11,3 @@ fdupes
 ufw
 jq
 aria2
-phantomjs
