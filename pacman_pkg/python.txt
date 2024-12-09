@@ -9,3 +9,12 @@ python-scikit-learn
 python-seaborn
 python-beautifulsoup4
 python-statsmodels
+python-mutagen
+python-pycryptodome
+python-pycryptodomex
+python-websockets
+python-brotli
+python-brotlicffi
+python-xattr
+python-pyxattr
+python-secretstorage

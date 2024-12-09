@@ -14,3 +14,5 @@ libjpeg-turbo
 libjxl
 hdf5
 devil
+rtmpdump
+atomicparsley
