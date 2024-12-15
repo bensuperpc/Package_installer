@@ -11,3 +11,7 @@ fdupes
 ufw
 jq
 aria2
+
+goverlay
+mesa-utils
+vulkan-tools
