@@ -14,3 +14,4 @@ aria2
 goverlay
 mesa-utils
 vulkan-tools
+kitty
