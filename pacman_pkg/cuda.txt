@@ -1,2 +1,2 @@
-#cuda-tools
-#cudnn
+cuda-tools
+cudnn
